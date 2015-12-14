@@ -13,11 +13,11 @@
  ****************************************************/
 
 #if defined (SPARK)
-#include "Adafruit_VS1053.h"
+#include "Adafruit_VS1053_Photon_Beta.h"
 #include "SD.h"
 #include "SparkIntervalTimer.h"
 #else
-#include <Adafruit_VS1053.h>
+#include <Adafruit_VS1053_Photon_Beta.h>
 #include <SD.h>
 #endif	//SPARK
 
