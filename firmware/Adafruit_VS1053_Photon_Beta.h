@@ -11,8 +11,8 @@
   Written by Limor Fried/Ladyada for Adafruit Industries.  
   BSD license, all text above must be included in any redistribution
  ****************************************************/
-#ifndef ADAFRUIT_VS1053_H
-#define ADAFRUIT_VS1053_H
+#ifndef Adafruit_VS1053_Photon_Beta_H
+#define Adafruit_VS1053_Photon_Beta_H
 
 #if defined (SPARK)
 #include "SD.h"
